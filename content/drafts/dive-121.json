@@ -171405,16 +171405,6 @@
           "score": 60
         },
         {
-          "answer": "Bed",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Bed sheet",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Beehive",
           "tier": "rare",
           "score": 60
@@ -171426,11 +171416,6 @@
         },
         {
           "answer": "Bellows",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Bench",
           "tier": "rare",
           "score": 60
         },
@@ -171476,11 +171461,6 @@
         },
         {
           "answer": "Blanching",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Blanket",
           "tier": "rare",
           "score": 60
         },
@@ -171586,11 +171566,6 @@
         },
         {
           "answer": "Bookbinding",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Bookcase",
           "tier": "rare",
           "score": 60
         },
@@ -171895,11 +171870,6 @@
           "score": 60
         },
         {
-          "answer": "Carpet",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Carrack",
           "tier": "rare",
           "score": 60
@@ -172001,11 +171971,6 @@
         },
         {
           "answer": "Chain mail",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Chair",
           "tier": "rare",
           "score": 60
         },
@@ -172370,22 +172335,12 @@
           "score": 60
         },
         {
-          "answer": "Couch",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Covered wagon",
           "tier": "rare",
           "score": 60
         },
         {
           "answer": "Cowbell",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Cradle",
           "tier": "rare",
           "score": 60
         },
@@ -172466,16 +172421,6 @@
         },
         {
           "answer": "Cursive",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Curtain",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Cushion",
           "tier": "rare",
           "score": 60
         },
@@ -172561,11 +172506,6 @@
         },
         {
           "answer": "Deodorant",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Desk",
           "tier": "rare",
           "score": 60
         },
@@ -173100,11 +173040,6 @@
           "score": 60
         },
         {
-          "answer": "Footstool",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Forceps",
           "tier": "rare",
           "score": 60
@@ -173481,11 +173416,6 @@
         },
         {
           "answer": "Hammerstone",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Hammock",
           "tier": "rare",
           "score": 60
         },
@@ -174360,11 +174290,6 @@
           "score": 60
         },
         {
-          "answer": "Mattress",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Maul",
           "tier": "rare",
           "score": 60
@@ -175020,11 +174945,6 @@
           "score": 60
         },
         {
-          "answer": "Pillow",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Pillowcase",
           "tier": "rare",
           "score": 60
@@ -175336,11 +175256,6 @@
         },
         {
           "answer": "Question mark",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Quilt",
           "tier": "rare",
           "score": 60
         },
@@ -175845,11 +175760,6 @@
           "score": 60
         },
         {
-          "answer": "Shelf",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Shell money",
           "tier": "rare",
           "score": 60
@@ -176310,11 +176220,6 @@
           "score": 60
         },
         {
-          "answer": "Stool",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Stove",
           "tier": "rare",
           "score": 60
@@ -176416,11 +176321,6 @@
         },
         {
           "answer": "Syringe",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Table",
           "tier": "rare",
           "score": 60
         },
@@ -176571,11 +176471,6 @@
         },
         {
           "answer": "Threshold",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Throne",
           "tier": "rare",
           "score": 60
         },
@@ -177400,6 +177295,16 @@
           "score": 30
         },
         {
+          "answer": "Bed",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bed sheet",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Bell",
           "tier": "schooler",
           "score": 30
@@ -177410,7 +177315,22 @@
           "score": 30
         },
         {
+          "answer": "Bench",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Blanket",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Boat",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Bookcase",
           "tier": "schooler",
           "score": 30
         },
@@ -177490,6 +177410,11 @@
           "score": 30
         },
         {
+          "answer": "Carpet",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Carriage",
           "tier": "schooler",
           "score": 30
@@ -177511,6 +177436,11 @@
         },
         {
           "answer": "Chain",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Chair",
           "tier": "schooler",
           "score": 30
         },
@@ -177575,12 +177505,32 @@
           "score": 30
         },
         {
+          "answer": "Couch",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cradle",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Crossbow",
           "tier": "schooler",
           "score": 30
         },
         {
           "answer": "Cup",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Curtain",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Cushion",
           "tier": "schooler",
           "score": 30
         },
@@ -177596,6 +177546,11 @@
         },
         {
           "answer": "Dam",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Desk",
           "tier": "schooler",
           "score": 30
         },
@@ -177645,6 +177600,11 @@
           "score": 30
         },
         {
+          "answer": "Footstool",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Fork",
           "tier": "schooler",
           "score": 30
@@ -177671,6 +177631,11 @@
         },
         {
           "answer": "Hammer",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Hammock",
           "tier": "schooler",
           "score": 30
         },
@@ -177745,6 +177710,11 @@
           "score": 30
         },
         {
+          "answer": "Mattress",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Mill",
           "tier": "schooler",
           "score": 30
@@ -177800,6 +177770,11 @@
           "score": 30
         },
         {
+          "answer": "Pillow",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Pipe",
           "tier": "schooler",
           "score": 30
@@ -177851,6 +177826,11 @@
         },
         {
           "answer": "Quill",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Quilt",
           "tier": "schooler",
           "score": 30
         },
@@ -177911,6 +177891,11 @@
         },
         {
           "answer": "Shampoo",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Shelf",
           "tier": "schooler",
           "score": 30
         },
@@ -177985,6 +177970,11 @@
           "score": 30
         },
         {
+          "answer": "Stool",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "String",
           "tier": "schooler",
           "score": 30
@@ -178000,12 +177990,22 @@
           "score": 30
         },
         {
+          "answer": "Table",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Tap",
           "tier": "schooler",
           "score": 30
         },
         {
           "answer": "Tent",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Throne",
           "tier": "schooler",
           "score": 30
         },
