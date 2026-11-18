@@ -548952,11 +548952,6 @@
           "score": 60
         },
         {
-          "answer": "Guava",
-          "tier": "rare",
-          "score": 60
-        },
-        {
           "answer": "Hearts of palm",
           "tier": "rare",
           "score": 60
@@ -549083,11 +549078,6 @@
         },
         {
           "answer": "Pattypan squash",
-          "tier": "rare",
-          "score": 60
-        },
-        {
-          "answer": "Peach",
           "tier": "rare",
           "score": 60
         },
@@ -549302,6 +549292,11 @@
           "score": 30
         },
         {
+          "answer": "Guava",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
           "answer": "Lychee",
           "tier": "schooler",
           "score": 30
@@ -549313,6 +549308,11 @@
         },
         {
           "answer": "Onion",
+          "tier": "schooler",
+          "score": 30
+        },
+        {
+          "answer": "Peach",
           "tier": "schooler",
           "score": 30
         },
